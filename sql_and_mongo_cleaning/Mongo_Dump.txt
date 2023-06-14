@@ -1,0 +1,17 @@
+
+use atp
+	
+db.atp.aggregate([{$group:{"_id":"$LinkPlayer",Name : {$first:"$PlayerName"},Born:{$first:"$Born"},Height:{$first:"$Height"},Hand:{$first:"$Hand"},PlayerLink:{$first:"$LinkPlayer"}}}
+,{$project:{"_id":0,PlayerLink:{$replaceAll:{input:"$PlayerLink",find:":",replacement:""}},Name:"$Name",Born:"$Born",Height:"$Height",Hand:"$Hand"}},{$merge:"PlayerInfoFixed"}])
+
+
+
+db.atp.aggregate([{$project:{"Filter":{$concat:["$Tournament","-","$Date"]},Name:"$Tournament",Location:"$Location",Date:"$Date",Ground:"$Ground",Prize:"$Prize"}},
+{$group:{"_id":"$Filter",Name : {$first:"$Name"},Location:{$first:"$Location"},Date:{$first:"$Date"},Ground:{$first:"$Ground"},Prize:{$first:"$Prize"}}}
+,{$project:{"_id":0}},{$merge:"TournamentsFixed"}])
+
+
+
+
+db.atp.aggregate([{$project:{"Player":{$replaceAll:{input:"$LinkPlayer",find:":",replacement:""}},"Oponent":"$Oponent",
+"Tournament":"$Tournament","Date":"$Date","GameRound":"$GameRound","GameRank":"$GameRank","WL":"$WL","Score":"$Score"}},{$merge:"GamesFixed"}])

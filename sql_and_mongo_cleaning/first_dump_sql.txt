@@ -1,0 +1,31 @@
+SET GLOBAL Innodb_buffer_pool_size = 5168709120;
+create database atp;
+use atp;
+
+create table Games (Date varchar(100),GameRank varchar(100),GameRound varchar(100),Opponent varchar(100),Player varchar(200) not null,Score varchar(100),Tournament varchar(100),WL varchar(100));
+create table Players(Born varchar(100),Hand varchar(100),Height varchar(100),Name varchar(100),Link varchar(200));
+create table Tournaments(Date varchar(100),Ground varchar(100),Location varchar(100),Name varchar(50) not null,Prize varchar(50));
+
+LOAD DATA  LOCAL INFILE "C:\\data\\atp\\TournamentsAtp.csv"
+INTO TABLE Tournaments
+COLUMNS TERMINATED BY ','
+OPTIONALLY ENCLOSED BY '"'
+ESCAPED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES;
+
+LOAD DATA  LOCAL INFILE "C:\\data\\atp\\PlayerInfo1.csv"
+INTO TABLE Players
+COLUMNS TERMINATED BY ','
+OPTIONALLY ENCLOSED BY '"'
+ESCAPED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES;
+
+LOAD DATA LOCAL INFILE "C:\\data\\atp\\GamesAtp.csv"
+INTO TABLE Games
+COLUMNS TERMINATED BY ','
+OPTIONALLY ENCLOSED BY '"'
+ESCAPED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES;

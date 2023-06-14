@@ -1,0 +1,363 @@
+ex_1
+
++----------------------------------------------+------------------+-----------------+--------------+
+| Pais                                         | Numero_Jogadores | Numero_Torneios | Numero_Jogos |
++----------------------------------------------+------------------+-----------------+--------------+
+| Afghanistan                                  |                0 |               0 |            0 |
+| Åland Islands                                |                0 |               0 |            0 |
+| Albania                                      |                0 |               0 |            0 |
+| Algeria                                      |                3 |              35 |          914 |
+| American Samoa                               |                0 |               0 |            0 |
+| Andorra                                      |                0 |              13 |          350 |
+| Angola                                       |                0 |               0 |            0 |
+| Anguilla                                     |                0 |               0 |            0 |
+| Antarctica                                   |                0 |               0 |            0 |
+| Antigua and Barbuda                          |                0 |               0 |            0 |
+| Argentina                                    |              171 |             438 |        12387 |
+| Armenia                                      |                2 |               7 |          216 |
+| Aruba                                        |                0 |               4 |          124 |
+| Australia                                    |              152 |             580 |        21444 |
+| Austria                                      |               65 |             359 |        10497 |
+| Azerbaijan                                   |                0 |               9 |          277 |
+| Bahamas                                      |                6 |              20 |          114 |
+| Bahrain                                      |                0 |              12 |          374 |
+| Bangladesh                                   |                0 |               2 |           62 |
+| Barbados                                     |                2 |              16 |          110 |
+| Belarus                                      |               20 |              68 |         1339 |
+| Belgium                                      |               47 |             230 |         6001 |
+| Belize                                       |                0 |               0 |            0 |
+| Benin                                        |                0 |               0 |            0 |
+| Bermuda                                      |                0 |              17 |          483 |
+| Bhutan                                       |                0 |               0 |            0 |
+| Bolivia, Plurinational State of              |                6 |              84 |         2362 |
+| Bonaire, Sint Eustatius and Saba             |                0 |               0 |            0 |
+| Bosnia and Herzegovina                       |               15 |             119 |         3712 |
+| Botswana                                     |                0 |               3 |           93 |
+| Bouvet Island                                |                0 |               0 |            0 |
+| Brazil                                       |              128 |             707 |        22121 |
+| British Indian Ocean Territory               |                0 |               0 |            0 |
+| Brunei Darussalam                            |                0 |               2 |           58 |
+| Bulgaria                                     |               20 |             101 |         2663 |
+| Burkina Faso                                 |                0 |               0 |            0 |
+| Burundi                                      |                2 |               6 |          181 |
+| Cambodia                                     |                1 |              14 |          434 |
+| Cameroon                                     |                0 |               3 |           88 |
+| Canada                                       |               63 |             289 |         9555 |
+| Cape Verde                                   |                0 |               0 |            0 |
+| Cayman Islands                               |                0 |               0 |            0 |
+| Central African Republic                     |                0 |               0 |            0 |
+| Chad                                         |                0 |               0 |            0 |
+| Chile                                        |               32 |             278 |         7915 |
+| China                                        |               65 |             390 |        13040 |
+| Christmas Island                             |                0 |               0 |            0 |
+| Cocos (Keeling) Islands                      |                0 |               0 |            0 |
+| Colombia                                     |               32 |             235 |         7415 |
+| Comoros                                      |                0 |               0 |            0 |
+| Congo                                        |                0 |               0 |            0 |
+| Congo, the Democratic Republic of the        |                1 |               0 |            0 |
+| Cook Islands                                 |                0 |               0 |            0 |
+| Costa Rica                                   |                3 |              17 |          341 |
+| Côte d'Ivoire                                |                2 |               7 |          136 |
+| Croatia                                      |               43 |             290 |         8894 |
+| Cuba                                         |                2 |              20 |          320 |
+| Curaçao                                      |                2 |               9 |           36 |
+| Cyprus                                       |                3 |              29 |          567 |
+| Czech Republic                               |               91 |             332 |         9839 |
+| Denmark                                      |               13 |              81 |         1349 |
+| Djibouti                                     |                0 |               0 |            0 |
+| Dominica                                     |                0 |               0 |            0 |
+| Dominican Republic                           |               13 |              75 |         1768 |
+| Ecuador                                      |               18 |             158 |         4310 |
+| Egypt                                        |                6 |             399 |        11626 |
+| El Salvador                                  |                1 |              35 |          675 |
+| Equatorial Guinea                            |                0 |               0 |            0 |
+| Eritrea                                      |                0 |               0 |            0 |
+| Estonia                                      |                6 |              54 |         1374 |
+| Ethiopia                                     |                0 |               0 |            0 |
+| Falkland Islands (Malvinas)                  |                0 |               0 |            0 |
+| Faroe Islands                                |                0 |               0 |            0 |
+| Fiji                                         |                0 |               0 |            0 |
+| Finland                                      |               22 |             157 |         4321 |
+| France                                       |              224 |            1101 |        40392 |
+| French Guiana                                |                0 |               0 |            0 |
+| French Polynesia                             |                1 |               0 |            0 |
+| French Southern Territories                  |                0 |               0 |            0 |
+| Gabon                                        |                0 |              10 |          306 |
+| Gambia                                       |                0 |               0 |            0 |
+| Georgia                                      |               13 |              49 |         1320 |
+| Germany                                      |              217 |            1081 |        34139 |
+| Ghana                                        |                0 |              11 |          205 |
+| Gibraltar                                    |                0 |               0 |            0 |
+| Greece                                       |               10 |             207 |         6053 |
+| Greenland                                    |                0 |               0 |            0 |
+| Grenada                                      |                0 |               0 |            0 |
+| Guadeloupe                                   |                2 |              11 |          397 |
+| Guam                                         |                0 |              12 |          337 |
+| Guatemala                                    |                3 |              30 |          518 |
+| Guernsey                                     |                0 |               0 |            0 |
+| Guinea                                       |                0 |               0 |            0 |
+| Guinea-Bissau                                |                0 |               0 |            0 |
+| Guyana                                       |                0 |               0 |            0 |
+| Haiti                                        |                2 |               4 |           16 |
+| Heard Island and McDonald Islands            |                0 |               0 |            0 |
+| Holy See (Vatican City State)                |                0 |               0 |            0 |
+| Honduras                                     |                0 |               1 |           32 |
+| Hong Kong                                    |                3 |              77 |         1669 |
+| Hungary                                      |               17 |             148 |         3731 |
+| Iceland                                      |                0 |               0 |            0 |
+| India                                        |               68 |             323 |         9302 |
+| Indonesia                                    |                9 |             115 |         2620 |
+| Iran, Islamic Republic of                    |                2 |              80 |         2177 |
+| Iraq                                         |                0 |               1 |            4 |
+| Ireland                                      |               11 |              54 |         1128 |
+| Isle of Man                                  |                0 |               0 |            0 |
+| Israel                                       |               27 |             234 |         6261 |
+| Italy                                        |              189 |            1358 |        46602 |
+| Jamaica                                      |                0 |              54 |         1319 |
+| Japan                                        |               80 |             378 |        11311 |
+| Jersey                                       |                0 |               0 |            0 |
+| Jordan                                       |                0 |               2 |           62 |
+| Kazakhstan                                   |               11 |             197 |         5928 |
+| Kenya                                        |                2 |              15 |          362 |
+| Kiribati                                     |                0 |               0 |            0 |
+| Korea, Democratic People's Republic of       |                0 |               0 |            0 |
+| Korea, Republic of                           |               32 |             198 |         6057 |
+| Kuwait                                       |                0 |              64 |         1628 |
+| Kyrgyzstan                                   |                1 |               0 |            0 |
+| Lao People's Democratic Republic             |                0 |               2 |           61 |
+| Latvia                                       |                7 |              41 |          727 |
+| Lebanon                                      |                1 |              26 |          369 |
+| Lesotho                                      |                0 |               0 |            0 |
+| Liberia                                      |                0 |               0 |            0 |
+| Libya                                        |                0 |               0 |            0 |
+| Liechtenstein                                |                0 |               0 |            0 |
+| Lithuania                                    |                6 |              41 |          945 |
+| Luxembourg                                   |                1 |              31 |          419 |
+| Macao                                        |                0 |               0 |            0 |
+| Macedonia, the Former Yugoslav Republic of   |                3 |              30 |          793 |
+| Madagascar                                   |                3 |               1 |            4 |
+| Malawi                                       |                0 |               0 |            0 |
+| Malaysia                                     |                2 |              42 |         1232 |
+| Maldives                                     |                0 |               0 |            0 |
+| Mali                                         |                1 |               0 |            0 |
+| Malta                                        |                0 |               3 |           93 |
+| Marshall Islands                             |                0 |               0 |            0 |
+| Martinique                                   |                0 |               0 |            0 |
+| Mauritania                                   |                0 |               0 |            0 |
+| Mauritius                                    |                1 |               1 |           31 |
+| Mayotte                                      |                0 |               0 |            0 |
+| Mexico                                       |               48 |             542 |        16471 |
+| Micronesia, Federated States of              |                0 |               0 |            0 |
+| Moldova, Republic of                         |                7 |               6 |           23 |
+| Monaco                                       |                4 |              62 |         2547 |
+| Mongolia                                     |                0 |               0 |            0 |
+| Montenegro                                   |                5 |              21 |          650 |
+| Montserrat                                   |                0 |               0 |            0 |
+| Morocco                                      |               15 |             230 |         7242 |
+| Mozambique                                   |                0 |               8 |          242 |
+| Myanmar                                      |                0 |               1 |            2 |
+| Namibia                                      |                1 |               4 |          124 |
+| Nauru                                        |                0 |               0 |            0 |
+| Nepal                                        |                0 |               0 |            0 |
+| Netherlands                                  |               73 |             307 |         8916 |
+| New Caledonia                                |                0 |              18 |          669 |
+| New Zealand                                  |               18 |             126 |         2801 |
+| Nicaragua                                    |                0 |               3 |           93 |
+| Niger                                        |                0 |               0 |            0 |
+| Nigeria                                      |                8 |             108 |         2757 |
+| Niue                                         |                0 |               0 |            0 |
+| Norfolk Island                               |                0 |               0 |            0 |
+| Northern Mariana Islands                     |                1 |               0 |            0 |
+| Norway                                       |                9 |              61 |         1110 |
+| Oman                                         |                0 |               3 |           11 |
+| Pakistan                                     |                2 |              26 |          442 |
+| Palau                                        |                0 |               0 |            0 |
+| Palestine, State of                          |                0 |               0 |            0 |
+| Panama                                       |                0 |              15 |          588 |
+| Papua New Guinea                             |                0 |               0 |            0 |
+| Paraguay                                     |                3 |              63 |          990 |
+| Peru                                         |               14 |             122 |         2917 |
+| Philippines                                  |                4 |              52 |          669 |
+| Pitcairn                                     |                0 |               0 |            0 |
+| Poland                                       |               42 |             263 |         8098 |
+| Portugal                                     |               29 |             329 |         9556 |
+| Puerto Rico                                  |                4 |              21 |          178 |
+| Qatar                                        |                0 |              94 |         3232 |
+| Réunion                                      |                1 |               0 |            0 |
+| Romania                                      |               55 |             360 |        10756 |
+| Russian Federation                           |              112 |             282 |         8557 |
+| Rwanda                                       |                0 |              16 |          489 |
+| Saint Barthélemy                             |                0 |               0 |            0 |
+| Saint Helena, Ascension and Tristan da Cunha |                0 |               0 |            0 |
+| Saint Kitts and Nevis                        |                0 |               0 |            0 |
+| Saint Lucia                                  |                0 |               0 |            0 |
+| Saint Martin (French part)                   |                0 |               0 |            0 |
+| Saint Pierre and Miquelon                    |                0 |               0 |            0 |
+| Saint Vincent and the Grenadines             |                0 |               0 |            0 |
+| Samoa                                        |                0 |               1 |            4 |
+| San Marino                                   |                0 |              28 |         1049 |
+| Sao Tome and Principe                        |                0 |               0 |            0 |
+| Saudi Arabia                                 |                2 |               3 |           95 |
+| Senegal                                      |                0 |              15 |          405 |
+| Serbia                                       |               37 |             170 |         4721 |
+| Seychelles                                   |                0 |               0 |            0 |
+| Sierra Leone                                 |                0 |               0 |            0 |
+| Singapore                                    |                3 |              33 |         1074 |
+| Sint Maarten (Dutch part)                    |                0 |               0 |            0 |
+| Slovakia                                     |               47 |             162 |         4899 |
+| Slovenia                                     |               16 |             108 |         3045 |
+| Solomon Islands                              |                0 |               0 |            0 |
+| Somalia                                      |                0 |               0 |            0 |
+| South Africa                                 |               68 |             131 |         2852 |
+| South Georgia and the South Sandwich Islands |                0 |               0 |            0 |
+| South Sudan                                  |                0 |               0 |            0 |
+| Spain                                        |              155 |            1079 |        34091 |
+| Sri Lanka                                    |                1 |              25 |          501 |
+| Sudan                                        |                0 |               7 |          184 |
+| Suriname                                     |                1 |               0 |            0 |
+| Svalbard and Jan Mayen                       |                0 |               0 |            0 |
+| Swaziland                                    |                0 |               1 |            4 |
+| Sweden                                       |               95 |             267 |         6463 |
+| Switzerland                                  |               47 |             280 |         7756 |
+| Syrian Arab Republic                         |                0 |               6 |          130 |
+| Taiwan, Province of China                    |                5 |              25 |          641 |
+| Tajikistan                                   |                0 |               1 |            4 |
+| Tanzania, United Republic of                 |                0 |               0 |            0 |
+| Thailand                                     |               11 |             183 |         5543 |
+| Timor-Leste                                  |                0 |               0 |            0 |
+| Togo                                         |                1 |               4 |          122 |
+| Tokelau                                      |                0 |               0 |            0 |
+| Tonga                                        |                0 |               0 |            0 |
+| Trinidad and Tobago                          |                1 |               1 |            4 |
+| Tunisia                                      |                7 |             377 |        11421 |
+| Turkey                                       |               10 |             590 |        18462 |
+| Turkmenistan                                 |                0 |               0 |            0 |
+| Turks and Caicos Islands                     |                0 |               0 |            0 |
+| Tuvalu                                       |                0 |               0 |            0 |
+| Uganda                                       |                0 |              12 |          370 |
+| Ukraine                                      |               46 |             123 |         3170 |
+| United Arab Emirates                         |                2 |              41 |         1505 |
+| United Kingdom                               |              140 |             715 |        26081 |
+| United States                                |              474 |            2470 |        86202 |
+| United States Minor Outlying Islands         |                0 |               0 |            0 |
+| Uruguay                                      |               10 |              92 |         2133 |
+| Uzbekistan                                   |               17 |             151 |         5144 |
+| Vanuatu                                      |                0 |               0 |            0 |
+| Venezuela, Bolivarian Republic of            |               12 |             129 |         2940 |
+| Viet Nam                                     |                2 |              52 |         1614 |
+| Virgin Islands, British                      |                0 |               0 |            0 |
+| Virgin Islands, U.S.                         |                0 |               0 |            0 |
+| Wallis and Futuna                            |                0 |               0 |            0 |
+| Western Sahara                               |                0 |               0 |            0 |
+| Yemen                                        |                0 |               0 |            0 |
+| Zambia                                       |                1 |               0 |            0 |
+| Zimbabwe                                     |               11 |              42 |          672 |
++----------------------------------------------+------------------+-----------------+--------------+
+249 rows in set (0.676 sec)
+
+
+
+Código:
+
+create view ex_1_1 as select paises.pais pais, count(players.name) n_players from paises left join players on paises.codigo = players.country group by paises.pais;
+create view ex_1_2 as select paises.pais pais, count(tournaments.name) n_tournaments from paises left join tournaments on paises.codigo = tournaments.country group by paises.pais;
+create view ex_1_3 as select paises.pais pais, count(games.tournament_id) n_jogos  from paises left join tournaments on paises.codigo = tournaments.country left join games on tournaments.id = games.tournament_id group by paises.pais;
+
+
+create view ex_1 as select ex_1_1.pais Pais, ex_1_1.n_players Numero_Jogadores,ex_1_2.n_tournaments Numero_Torneios,ex_1_3.n_jogos Numero_Jogos from ex_1_1, ex_1_2, ex_1_3 where ex_1_1.pais = ex_1_2.pais and ex_1_2.pais = ex_1_3.pais; 
+
+select * from ex_1;
+
+
+
+
+
+
+
+
+
+ex_2
++-----------------+---------+
+| Player          | Perc    |
++-----------------+---------+
+| Rocky Royer     | 83.3333 |
+| Rafael Nadal    | 83.0882 |
+| Novak Djokovic  | 82.9287 |
+| Bjorn Borg      | 81.8634 |
+| Roger Federer   | 81.7197 |
+| Ivan Lendl      | 81.6048 |
+| John McEnroe    | 81.5596 |
+| Jimmy Connors   | 80.8712 |
+| Tomasz Iwanski  | 80.0000 |
+| Reinhart Probst | 80.0000 |
++-----------------+---------+
+10 rows in set (0.378 sec)
+
+
+Código:
+
+create view games_won as select players.id ide,players.name Player, count(games.winner_id) won_num from players,games where players.id = games.winner_id group by games.winner_id;
+create view games_lost as select players.id ide,players.name Player, count(games.loser_id) lost_num from players,games where players.id = games.loser_id group by games.loser_id;
+create view ex_2 as select games_won.Player, ((games_won.won_num/(games_won.won_num+games_lost.lost_num))*100) Perc from games_won, games_lost where(games_won.ide = games_lost.ide) order by perc desc limit 10;
+select * from ex_2;
+
+
+
+
+
+ex_3
++------------------+---------+
+| Player           | perc    |
++------------------+---------+
+| Rafael Nadal     | 87.6833 |
+| Jimmy Connors    | 82.3322 |
+| John McEnroe     | 81.5534 |
+| Guillermo Vilas  | 75.2809 |
+| Alex Molcan      | 72.7273 |
+| Goran Ivanisevic | 68.9441 |
+| Thomas Muster    | 67.2414 |
+| Andres Gomez     | 66.6667 |
+| Marcelo Rios     | 66.6667 |
+| Denis Shapovalov | 64.7059 |
++------------------+---------+
+10 rows in set (0.065 sec)
+
+Código:
+
+create view ex3_1 as select players.id ide, players.name Player, count(games.winner_id) won_n from players,games,tournaments 
+where players.id = games.winner_id and games.tournament_id = tournaments.id and players.mainhand = 'Left-Handed' and tournaments.name = 'Roland Garros' 
+or tournaments.name = 'US Open' and players.id = games.winner_id and games.tournament_id = tournaments.id and players.mainhand = 'Left-Handed' 
+or tournaments.name = 'Wimbledon' and players.id = games.winner_id and games.tournament_id = tournaments.id and players.mainhand = 'Left-Handed' 
+or tournaments.name = 'Australian Open' and players.id = games.winner_id and games.tournament_id = tournaments.id and players.mainhand = 'Left-Handed' group by games.winner_id;
+
+create view ex3_2 as select players.id ide, players.name Player, count(games.loser_id) lost_n from players,games,tournaments 
+where players.id = games.loser_id and games.tournament_id = tournaments.id and players.mainhand = 'Left-Handed' and tournaments.name = 'Roland Garros' 
+or tournaments.name = 'US Open' and players.id = games.loser_id and games.tournament_id = tournaments.id and players.mainhand = 'Left-Handed' 
+or tournaments.name = 'Wimbledon' and players.id = games.loser_id and games.tournament_id = tournaments.id and players.mainhand = 'Left-Handed' 
+or tournaments.name = 'Australian Open' and players.id = games.loser_id and games.tournament_id = tournaments.id and players.mainhand = 'Left-Handed' group by games.loser_id;
+
+create view ex_3 as select ex3_2.Player, ((ex3_1.won_n/(ex3_1.won_n+ex3_2.lost_n))*100) perc from ex3_2,ex3_1 where ex3_2.ide = ex3_1.ide order by perc desc limit 10; 
+
+select * from ex_3;
+
+
+
+
+ex_4
++----------------+----------+
+| Nome           | Vitorias |
++----------------+----------+
+| Roger Federer  |      802 |
+| Novak Djokovic |      658 |
+| Ti Chen        |      609 |
+| Andre Agassi   |      608 |
+| Yen-Hsun Lu    |      562 |
++----------------+----------+
+5 rows in set (0.502 sec)
+
+Código:
+
+create view ex_4 as select players.name Nome ,count(games.winner_id) Vitorias from players,games,tournaments 
+where players.id = games.winner_id and games.tournament_id = tournaments.id and tournaments.ground = 'Hard' 
+group by Nome order by vitorias desc limit 5;
+select * from ex_4;
